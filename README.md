@@ -2,4 +2,4 @@
  A Minecraft World built in survival by a friend more dedicated to the game than I. Truly a great place to explore. For Java Minecraft 1.12.x or later. 
 
 
-![Discord Server(https://img.shields.io/discord/158054883688185856)](https://discordapp.com/channels158054883688185856)
+[![Discord Server](https://img.shields.io/discord/158054883688185856 "Casual Gamers Everywhere Server")](https://discordapp.com/channels158054883688185856)
